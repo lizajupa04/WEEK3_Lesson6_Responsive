@@ -1,0 +1,28 @@
+.body-completo {
+  background: rgb(250, 212, 142);
+  font-family: "Mooli", sans-serif;
+}
+
+.titulo1 {
+  font-weight: bold;
+}
+
+p {
+  margin: auto;
+  text-align: center;
+  width: 90%;
+}
+
+.links {
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  margin-right: 40px;
+  text-decoration: solid;
+}
+
+.imagen1 {
+  width: 50%;
+}
